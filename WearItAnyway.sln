@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WearItAnyway", "WearItAnyway\WearItAnyway.csproj", "{464D651C-BF16-48AF-969E-85556FA9644E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464D651C-BF16-48AF-969E-85556FA9644E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464D651C-BF16-48AF-969E-85556FA9644E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464D651C-BF16-48AF-969E-85556FA9644E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464D651C-BF16-48AF-969E-85556FA9644E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86A118F3-7060-4D43-929C-148FD4F9D402}
+	EndGlobalSection
+EndGlobal
